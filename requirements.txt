@@ -1,0 +1,13 @@
+streamlit==1.46.0
+torch>=2.2.0
+transformers>=4.53.0
+tokenizers
+numpy
+pandas
+plotly
+python-dotenv
+google-generativeai
+scikit-learn
+matplotlib
+protobuf
+safetensors

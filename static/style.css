@@ -1,0 +1,33 @@
+.main {
+    background-color: #0F172A;
+}
+
+.block-container {
+    padding-top: 2rem;
+}
+
+section[data-testid="stSidebar"] {
+    background-color: #111827;
+}
+
+h1, h2, h3 {
+    color: white;
+}
+
+.stMetric {
+    background-color: #1E293B;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.stButton > button {
+    background-color: #2563EB;
+    color: white;
+    border-radius: 10px;
+    height: 45px;
+    width: 100%;
+}
+
+.stTextArea textarea {
+    border-radius: 10px;
+}

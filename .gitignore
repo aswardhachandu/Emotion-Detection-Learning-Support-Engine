@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+models/bert_emotion_model_final/
+models/bltsm/*.keras
+models/bltsm/*.pkl
